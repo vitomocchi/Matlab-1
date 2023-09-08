@@ -1,4 +1,4 @@
-# Matlab-1
+# Randow-Walk
 Summary
 Exercise 1: 2D Random Walks on a Lattice
 
